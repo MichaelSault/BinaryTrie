@@ -2,7 +2,6 @@
  * This is an additional class created for the purpose of testing the class MyCompressedTrie.
  * 
  * Name: Michael Sault
- * Student Number: 8459820
  * Uottawa Email: msaul025@uottawa.ca
  *
  */
